@@ -1,0 +1,14 @@
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\bin\Debug\net8.0\test-zad1.exe
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\bin\Debug\net8.0\test-zad1.deps.json
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\bin\Debug\net8.0\test-zad1.runtimeconfig.json
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\bin\Debug\net8.0\test-zad1.dll
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\bin\Debug\net8.0\test-zad1.pdb
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\test-zad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\test-zad1.AssemblyInfoInputs.cache
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\test-zad1.AssemblyInfo.cs
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\test-zad1.csproj.CoreCompileInputs.cache
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\test-zad1.dll
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\refint\test-zad1.dll
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\test-zad1.pdb
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\test-zad1.genruntimeconfig.cache
+C:\Users\PC-13\source\repos\test-zad1\test-zad1\obj\Debug\net8.0\ref\test-zad1.dll
